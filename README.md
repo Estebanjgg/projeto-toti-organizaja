@@ -107,9 +107,9 @@ Instale o APK em um dispositivo Android e explore os recursos do **OrganizaJá**
 Este projeto foi desenvolvido pelos membros do **Grupo 10**:
 
 - **Esteban J.G.G.** - Desenvolvedor principal
-- **[Nome do membro 2]**
-- **[Nome do membro 3]**
-- **[Nome do membro 4]**
+- **[------]**
+- **[------]**
+- **[------]**
 
 ## Licença
 
